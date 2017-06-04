@@ -1,38 +1,54 @@
 <html>
-<head>
-<title>Farandula</title>
-</head>
-<body>
-<Table align="center" border=1 width=45% bgcolor=black>
-<Tr>
-<Td><font color=white>Deportes</Td><Td><font color=white>Entretenimiento</Td><Td><font color=white>futbol</Td><Td><font color=white>Gastronomia</Td><Td><font color=white>iDónde</Td><Td><font color=white>Radio</Td><Td><font color=white>tecnologia</Td><Td><font color=white>Turismo</Td></font></Tr>
-</Table>
+    <head>
+        <title>knowledge and Technology</title>
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    </head>
 
-<Table align="center" with=80% >
-<Tr>
-<Td><img src="linea verde.png" alt="linea verde" title="linea" width="350" height="10"/></Td><Td><img src="linea verde.png" alt="linea verde" title="linea" width="355" height="10"/></Td></Tr>
-<Tr><Td>Música</Td><Td>Música</Td></Tr>
-<Tr>
-<Td><img src="Despacito.PNG" alt="Despacito" title="Despacito="200" height="250"/><br /><b>La canción ¨Despacito¨ pasa del regutón  a version<br /> metal.</b><br />Algunos rockeros del metal han quedado asombrados<br /> el escuchar la canción de reguetón más e...</Td>
-<Td><img src="Captura.PNG" alt="Pedrina y Río" title="Pedrina y Río="200" height="250"/><br /><b>Pedrina y Río serán los teloneros del concierto de<br /> Melendi.</b><br />Pedrina y Río seran el estimulante previo para la<br /> presentación del cantante español Melendi...</Td>
-</Tr>
+    <body>
+       <h1>Robert Farah</h1>
+    <p>
+       Robert Farah (Montreal;2 20 de enero de 1987),
+       es un <b>tenista profesional colombiano.</b> 
+       Además es graduado de economía en la Universidad
+      del Sur de California; Es el tenista número 4 de Colombia.
+      Su mejor posición la obtuvo el 6 de junio del 2011 
+      al ocupar la posición 163 del ATP.
+   </p>
 
-<Tr>
-<Td><img src="linea verde.png" alt="linea verde" title="linea" width="350" height="10"/></Td><Td><img src="linea verde.png" alt="linea verde" title="linea" width="355" height="10"/></Td></Tr>
-<Tr><Td>Celebridades</Td><Td>Música</Td></Tr>
-<Tr>
-<Td><img src="the weekend.PNG" alt="Selena Gómes y the wekend" title="Selena Gómes y the wekend="200" height="250"/><br /><b>Selena Gómez y The weekend no ocultan su <br /> romance.</b><br />Selena Gómez y The Weeknd, la pareja del momento,<br /> ya no se ocultan de los...</Td>
-<Td><img src="music.PNG" alt="Heartradio music awards" title="Heartradio music awards="200" height="250"/><br /><b>Heartradio music awards 2017:Las mejores <br />presentaciones de la gala.</b><br />Justin Timberlake fue el encargado de inaugurar las <br /> actuaciones de la noche con can´t...</Td>
-</Tr>
-  <Tr>
-  <Td><img src="linea verde.png" alt="linea verde" title="linea" width="350" height="10"/></Td><Td><img src="linea verde.png" alt="linea verde" title="linea" width="355" height="10"/></Td></Tr>
-<Tr><Td>Gif</Td><Td>Música</Td></Tr>
-  <Tr><Td><img src="tumblr_o7efxasoMR1v3uijeo1_500.gif" alt="Creatividad" title="creatividad" width="350" height="300"/></Td><Td><iframe width="560" height="315" src="https://www.youtube.com/embed/kJQP7kiw5Fk" frameborder="0" allowfullscreen></iframe></Td></Tr>
-  
-    
-</Table>
-  
+   <p>
+      <b>El tenista vallecaucano</b>, criado en Cali, es hijo de una 
+      familia de ascendencia libanesa. 
+     Su madre es docente en el Liceo Frances Paul Valery de Cali. 
+     Su padre es tenista <i>(no reconocido a nivel profesional)</i> 
+     En el año 2006 se convierte en Tenista Profesional.
+   </p>
+
+  <a target="_blank"href="https://www.google.com.co/">Ir a Google</a>
  <br />
+ <a target="_blank"href="nuevo/raqueta t.jpg">Ir a la imagen</a>
+ <br />
+ <a href="mailto:spineros24@hispanoamericano.edu.co" title="Enviar correao a Sebastian">Enviar Mail</a>
+  <hr/>
+ 
+  <h2>Logros</h2>
+   
+   <p>
+   En el Abierto de Australia del año 2013, la pareja Colombiana 
+   conformada por Robert Farah y Juan Sebastián Cabal 
+   logran pasar a los cuartos de final.
+   </p> 
 
-</body>
-</html>
+   <p>
+   <blockquote>En el 2014 y haciendo dupla con su compatriota 
+   Juan Sebastián Cabal, consiguieron en el mes de enero su 
+   primer título profesional del año al coronarse en el torneo de 
+   dobles del Bucaramanga Open 2014. Los caleños, aseguraron el 
+   título al vencer en la final a la dupla del colombiano 
+   Juan Carlos Spir y el estadounidense Kevin King, 
+   con parciales 7-6(3) y 6-3, en 1 hora y 13 minutos de partido.
+   </blockquote>
+   <cite>Google</cite>
+   </p> 
+
+   </body>
+<html>
